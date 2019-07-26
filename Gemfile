@@ -57,5 +57,5 @@ group :development do
   gem 'letter_opener',                     '~> 1.4'
   gem 'derailed'
   gem 'reek'
-  gem 'rubocop', require: false
+  gem 'rubocop', require: true
 end
